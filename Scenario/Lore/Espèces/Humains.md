@@ -1,4 +1,4 @@
-#Les Humains
+# Les Humains
 
 Suite à la surpopulation et à la surconsommation des ressources de la Terre les Humains doivent trouver une solution. Les gouvernements s’unissent donc pour organiser une mission coloniale vers une planète découverte par la NASA. Avec le financement de gros organismes commerciaux, qui veulent une place vers ce nouveaux départ, trois vaisseaux sont construit en orbite autour de la planète.
 3 vaisseaux coloniaux :
