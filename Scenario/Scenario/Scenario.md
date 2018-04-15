@@ -31,3 +31,19 @@ Le Shoranien n’a pas les matériaux ni les machines pour fabriquer des vaissea
 Mais les ennuis ne font que commencer puisqu’ils tombent sur un petit comité d’accueil à l’approche de la lune, s’en suit une bataille spatiale. Le but est de protéger le bombardier qui lui fonce directement vers la lune. Arrivés au dessus de la base ou est situé le canon, ils remarquent qu’il n’y a pas un mais 2 cannons espacés de quelques kilomètres. Ils en bombardent un mais le bombardier est ensuite détruit.
 ### Chapitre 3: Sauver CSS Mankind
 Les résistants n’ont plus le choix, ils n’ont plus de munitions, ils doivent se poser et poser une charge sur le point faible du canon. Ils se posent près d’un hangar ou ils récupèrent des chars, avancent avec ces chars jusqu’au canon et entrent dans la salle de contrôle. Ils entrent en utilisant leurs fusils d’assaut boosté aux hormones et posent des charges partout, puis ils sortent en faisant tout exploser derrière eux.
+
+
+### Fins possibles [Basiques]
+####Fin nº1:
+La ville trian est détruite, les rares trianiens survivants sont impitoyablement chassés par les humains
+####Fin nº2:
+Les humains n'arrivent pas à poser les bombes, le CSS Mankind est annihilé, les humains sont réduits en esclavage par les trianiens
+####Fin nº3:
+Les humains explosent la ville trian, mais quelques rescapés arrivent jusqu'au CSS Mankind et le font se crasher sur la base humaine. Les deux civilisations disparaissent et les shoraniens prennent le contrôle de l'univers
+
+### Fins possibles [Rares]
+####Fin nº4:
+Après avoir réalisé des quêtes annexes, la révolution gronde chez les trianiens; les dirigeants sont assassinés. Les chefs humains prennent peur et s'enfuient, mais un groupe humain rebelle les trouvent et les tuent. La paix est de retour sur Trian et les deux espèces cohabitent harmonieusement.
+####Fin nº5:
+Après avoir réalisé des quêtes annexes, le complot des shoraniens pour contrôler l'univers est mis à jour. Les trianiens et les terriens s'allient face à cette nouvelle menace, tandis que la flotte shoranienne s'approche des tréfonds de l'univers...
+####
