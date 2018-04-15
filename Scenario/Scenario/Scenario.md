@@ -34,16 +34,16 @@ Les résistants n’ont plus le choix, ils n’ont plus de munitions, ils doiven
 
 
 ### Fins possibles [Basiques]
-####Fin nº1:
+[Fin nº1]
 La ville trian est détruite, les rares trianiens survivants sont impitoyablement chassés par les humains
-####Fin nº2:
+[Fin nº2]
 Les humains n'arrivent pas à poser les bombes, le CSS Mankind est annihilé, les humains sont réduits en esclavage par les trianiens
-####Fin nº3:
+[Fin nº3]
 Les humains explosent la ville trian, mais quelques rescapés arrivent jusqu'au CSS Mankind et le font se crasher sur la base humaine. Les deux civilisations disparaissent et les shoraniens prennent le contrôle de l'univers
 
 ### Fins possibles [Rares]
-####Fin nº4:
+[Fin nº4]
 Après avoir réalisé des quêtes annexes, la révolution gronde chez les trianiens; les dirigeants sont assassinés. Les chefs humains prennent peur et s'enfuient, mais un groupe humain rebelle les trouvent et les tuent. La paix est de retour sur Trian et les deux espèces cohabitent harmonieusement.
-####Fin nº5:
+[Fin nº5]
 Après avoir réalisé des quêtes annexes, le complot des shoraniens pour contrôler l'univers est mis à jour. Les trianiens et les terriens s'allient face à cette nouvelle menace, tandis que la flotte shoranienne s'approche des tréfonds de l'univers...
-####
+
