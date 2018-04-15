@@ -1,7 +1,7 @@
 # Scénario
-Les humains veulent coloniser Tria. Ils le font en 3 vaisseaux :
-Année 0 : CSS Scout : Pose des bases de la colonie, préparation du terrain
-Année 2 : CSS Cavalry : Amélioration des bases, construction d’usines et d’habitations etc
+Les humains veulent coloniser Tria. Ils le font en 3 vaisseaux :  
+Année 0 : CSS Scout : Pose des bases de la colonie, préparation du terrain  
+Année 2 : CSS Cavalry : Amélioration des bases, construction d’usines et d’habitations etc  
 Année 5 : CSS Mankind : Peuplement de la colonie.
 ## Partie 1
 ### Chapitre 1: Bienvenue sur Tria
@@ -9,7 +9,7 @@ Un vaisseau colonial possédant à bord plus de 50 000 personnes arrive sur une 
 ### Chapitre 2: Les lois de la nature                                                                                      
 Les 3 joueurs civils spawnent dans leur capsule (ils ont déjà atterri). Leur but est de trouver un max de survivants, ils se dirigent donc vers le haut de la colline la plus proche. Le 4e joueur a du s’éjecter de son vaisseau, il rentre donc dans l’atmosphère avec une capsule miniature, pas trop loin des autres survivants. Il rejoint lui aussi la colline. Ils prennent chacun un pistolet de survie dans leur capsule de sauvetage. En arrivant, ils se retrouvent (je sais pas comment, peut être en lançant des fusées de détresse) et commencent à chercher la base humaine. Ils trouvent une construction pas très loin (un avant poste). Arrivés a l’avant poste, ils trouvent des indices les menant a la colonie principale. Ils s’y rendent. Sur le chemin, ils se font attaquer par des sortes de loups affamés assez lents pour être semés à pied (laissez libre cours à votre imagination ;D). Ils se défendent avec leurs pistolets mais sont rapidement à court de munitions et sont obligés de courir et utiliser leurs couteaux.
 ### Chapitre 3: Courir ou mourir
-Ils arrivent à une cascade, sont obligés de sauter. Arrivés en bas, ils nagent vers le bord. Arrivés dans l'entrepôt ils prennent un quad (hoverboard/speeder/dragonfly) et foncent à travers un canyon pour rejoindre la base des humains (faudrait trouver un truc pour les poursuivre, sinon c’est pas drôle). Une fois arrivée à proximité, des tirs provenant du sol détruisent le truc qui les poursuit. Un groupe de soldats provenant apparemment de l'ancien vaisseau colonial vient secourir les survivants et les emmena dans une base souterraine blindée. 
+Ils arrivent à une cascade, sont obligés de sauter. Arrivés en bas, ils nagent vers le bord parce qu'il y a un petit entrepot. Ils y trouvent des quads (hoverboard/speeder/dragonfly). Toute cette agitation a attiré l'attention d'une patrouille triannienne, a la recherche de survivants (pour les emprisonner) ils les poursuivent. Les survivants foncent à travers un canyon pour rejoindre la base des humains. Une fois arrivée à proximité, des tirs provenant du sol détruisent plusieurs véhicules trianniens, les autres font demi tour. Un groupe de soldats provenant apparemment de l'ancien vaisseau colonial vient secourir les survivants et les emmena dans une base souterraine blindée. 
 ## Partie 2:
 ### Chapitre 1 : Caché dans les tréfonds
 Nos survivant découvrent une base souterraine servant de lieux d’habitation pour les humains du premier vaisseau. Ils sont accueillis par la personne qui dirige les lieux et s’occupe de la survie de chacun. Celui ci explique qu'après leur arrivée sur tria ils ont rapidement découvert les ruines souterraine d’une ancienne civilisation, puis très rapidement ils se sont fait attaquer par les trianiens qui les ont forcés à se réfugier sous terre. Heureusement les installations ont tout ce qu’il faut pour permettre la survie d’un peuple.
